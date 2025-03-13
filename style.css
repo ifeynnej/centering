@@ -1,7 +1,14 @@
 p{
   justify-content:center;
+  align-items:center;
+  
 }
 
 .containter{
   display:flex;
+  flex-direction: row;
+}
+
+.tools-text{
+  flex-direction: row;
 }
